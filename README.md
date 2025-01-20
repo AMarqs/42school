@@ -1,15 +1,18 @@
 # 42school
 
---
 > 42 is the largest free IT school network in the world
 
 This repository is a recopilation of my work in the school.
+
+<br>
 
 ## Piscine
 
 Is the pre-selection to enter the cursus.
 
 Inside the folder are the exercises that I've done, grouped by levels. All of them are exercises of initiation and practice with the C language and Shell.
+
+<br>
 
 ## CURSUS
 
