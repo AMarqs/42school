@@ -104,7 +104,7 @@ void	ft_putnbr_base(int nbr, char *base)
 		}
 	}
 }
-
+/*
 int	main(void)
 {
 	int	nbr;
@@ -114,4 +114,4 @@ int	main(void)
 	ft_putnbr_base(nbr, base);
 	return (0);
 }
-
+*/

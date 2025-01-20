@@ -6,66 +6,40 @@
 /*   By: albmarqu <albmarqu@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/30 11:35:10 by albmarqu          #+#    #+#             */
-/*   Updated: 2023/11/10 22:23:46 by albmarqu         ###   ########.fr       */
+/*   Updated: 2023/11/13 11:06:32 by albmarqu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
 
-void	concat(char a, char b, char c, char d)
+void	ft_putchar(char c)
 {
-	char	coma;
-	char	esp;
-
-	coma = ',';
-	esp = ' ';
-	write(1, &a, 1);
-	write(1, &b, 1);
-	write(1, &esp, 1);
 	write(1, &c, 1);
-	write(1, &d, 1);
-	if (a != '9' || b != '8' || c != '9' || d != '9')
-	{
-		write(1, &coma, 1);
-		write(1, &esp, 1);
-	}
-}
-
-void	buclewhile(char a, char b, char c, char d)
-{
-	while (a <= '9')
-	{
-		while (b <= '8')
-		{
-			while (c <= '9')
-			{
-				while (d <= '9')
-				{
-					concat (a, b, c, d);
-					d++;
-				}
-				d = '0';
-				c++;
-			}
-			c = '0';
-			b++;
-		}
-		b = '0';
-		a++;
-	}
 }
 
 void	ft_print_comb2(void)
 {
-	char	a;
-	char	b;
-	char	c;
-	char	d;
+	int	a;
+	int	b;
 
-	a = '0';
-	b = '0';
-	c = '0';
-	d = '0';
-	buclewhile(a, b, c, d);
+	a = 0;
+	b = 0;
+	while (a <= 98)
+	{
+		b = a + 1;
+		while (b <= 99)
+		{
+			ft_putchar((a / 10) + '0');
+			ft_putchar((a % 10) + '0');
+			write(1, " ", 1);
+			ft_putchar((b / 10) + '0');
+			ft_putchar((b % 10) + '0');
+			if (a != 98)
+				write(1, ", ", 2);
+			b++;
+		}
+		a++;
+	}
 }
 /*
 int	main(void)

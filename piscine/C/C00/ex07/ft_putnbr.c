@@ -6,10 +6,11 @@
 /*   By: albmarqu <albmarqu@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/26 22:58:02 by albmarqu          #+#    #+#             */
-/*   Updated: 2023/11/10 22:24:44 by albmarqu         ###   ########.fr       */
+/*   Updated: 2023/11/13 10:43:36 by albmarqu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
 
 void	ft_putnbr(int nb)
 {

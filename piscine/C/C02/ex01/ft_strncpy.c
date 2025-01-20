@@ -29,7 +29,7 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
-
+/*
 int main(void)
 {
     char src[] = "Hola";
@@ -40,4 +40,4 @@ int main(void)
     printf("%s", dest);
     return (0);
 }
-
+*/
