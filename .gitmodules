@@ -4,3 +4,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/AMarqs/so_long.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/AMarqs/minitalk.git
