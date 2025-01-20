@@ -1,1 +1,0 @@
-Cuando se ejecuta el programa hay un segmentation fault. Saben identificar donde está el problema pero no han tenido tiempo para terminar el proyecto. Hemos estado hablando acerca del proyecto y de cómo llegar a la solución. Mucha suerte y a seguir nadando! ☀️
