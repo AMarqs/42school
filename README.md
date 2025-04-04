@@ -38,4 +38,5 @@ In the cursus there are projects by levels and on different topics, in C languag
 
 ### Level 3
 
-- **Minishell**: Creating a simple shell 
+- **Minishell**: Creating a simple shell
+- **Philosophers**: Computing algorithm
