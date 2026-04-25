@@ -22,21 +22,21 @@ In the cursus there are projects by levels and on different topics, in C languag
 
 ### Level 0
 
-- **Libft**: Self-made library 
+- [**Libft**](https://github.com/AMarqs/libft.git): Self-made library 
 
 ### Level 1
 
-- **Ft_printf**: Self-done printf() function
+- [**Ft_printf**](https://github.com/AMarqs/ft_printf.git): Self-done printf() function
 - **Born2beroot**: System administration exercise with a VirtualBox virtual machine
-- **Get_next_line**: Return a line read from a file descriptor 
+- [**Get_next_line**](https://github.com/AMarqs/get_next_line.git): Return a line read from a file descriptor 
 
 ### Level 2
 
-- **Minitalk**: Small data exchange program using UNIX signals 
-- **So_long**: Small 2D game
-- **Push_swap**: Sort data in a stack, with a limited set of instructions, and using the fewest number of actions possible 
+- [**Minitalk**](https://github.com/AMarqs/minitalk.git): Small data exchange program using UNIX signals 
+- [**So_long**](https://github.com/AMarqs/so_long.git): Small 2D game
+- [**Push_swap**](https://github.com/AMarqs/push_swap.git): Sort data in a stack, with a limited set of instructions, and using the fewest number of actions possible 
 
 ### Level 3
 
-- **Minishell**: Creating a simple shell
-- **Philosophers**: Computing algorithm
+- [**Minishell**](https://github.com/AMarqs/minishell.git): Creating a simple shell
+- [**Philosophers**](https://github.com/AMarqs/philosophers.git): Computing algorithm
