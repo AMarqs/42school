@@ -1,14 +1,19 @@
-### Visual Code ###
+
+#-------------#
+# Visual Code #
+#-------------#
 .vscode/
 
-
-### System Files ###
+#--------------#
+# System Files #
+#--------------#
 
 # General
 .DS_Store
 
-
-### C ###
+#-------#
+#   C   #
+#-------#
 
 # Object files
 *.o
