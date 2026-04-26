@@ -43,7 +43,7 @@ In the cursus there are projects by levels and on different topics, in C languag
 
 ### Level 4
 
-- [**netPractice**]():
+- **netPractice**:
 - [**cub3d**](https://github.com/AMarqs/cub3d):
 - [**cpp Modules 00 to 04**](https://github.com/AMarqs/cpp_modules):
 
@@ -51,4 +51,4 @@ In the cursus there are projects by levels and on different topics, in C languag
 
 - [**cpp Modules 00 to 04**](https://github.com/AMarqs/cpp_modules):
 - [**inception**](https://github.com/AMarqs/inception):
-- [**ft_irc**]():
+- **ft_irc**:
